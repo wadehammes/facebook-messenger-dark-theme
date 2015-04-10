@@ -1,0 +1,32 @@
+{
+  "name": "Facebook Messenger - Dark Theme",
+  "version": "1.0.11",
+  "manifest_version": 2,
+  "description": "A dark theme for Facebook Messenger (messenger.com)",
+  "homepage_url": "http://wadehammes.com",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "scripts": [
+      "src/inject/inject.js"
+    ],
+    "persistent": true
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.messenger.com/*"
+      ],
+      "css": [
+        "src/inject/inject.css"
+      ],
+      "js": [
+        "src/inject/inject.js"
+      ]
+    }
+  ]
+}

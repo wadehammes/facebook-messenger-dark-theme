@@ -1,0 +1,72 @@
+/* Main UI */
+body.darkUI ._4sp8, body.darkUI ._4_j5, body.darkUI ._1ht1, body.darkUI ._5l37, body.darkUI ._4eby, body.darkUI ._2y8_, body.darkUI ._5t4c, body.darkUI ._nd_ ._3058._15gf {
+    background: #2C2C2C !important;
+    -webkit-transition: background 0.1s ease-in;
+    transition: background 0.1s ease-in;
+}
+
+body.darkUI ._1ht1._1ht2, body.darkUI ._5742, body.darkUI ._36ic {
+    background: #252525 !important;
+    -webkit-transition: background 0.1s ease-in;
+    transition: background 0.1s ease-in;
+}
+
+body.darkUI ._hh7:active, body.darkUI ._-5k, body.darkUI ._hh7 {
+    background: #A8A8A8;
+    -webkit-transition: background 0.1s ease-in;
+    transition: background 0.1s ease-in;
+}
+
+body.darkUI ._nd_ ._hh7:active, body.darkUI ._nd_._-5k ._hh7, body.darkUI ._nd_ ._3058 {
+    background: #0077e5 !important;
+}
+
+body.darkUI ._hh7:active {
+    background: #696969 !important;
+    -webkit-transition: background 0.1s ease-in;
+    transition: background 0.1s ease-in;
+}
+
+body.darkUI ._5iwm ._58al, body.darkUI ._55sg ._kv1 input {
+    background: #313131 !important;
+    -webkit-transition: background 0.1s ease-in;
+    transition: background 0.1s ease-in;
+}
+
+body.darkUI ._ih3, body.darkUI ._364g, body.darkUI ._3tl0, body.darkUI ._497p, body.darkUI ._1tqi, body.darkUI ._5743, body.darkUI ._1ht7, ._3tkx, body.darkUI ._3tkz, body.darkUI ._kck, body.darkUI ._kcm, body.darkUI ._kck ._58al, body.darkUI ._3x6u, body.darkUI ._4jgs, body.darkUI ._5rh4, body.darkUI ._14-7 ._58ah ._58al, body.darkUI ._2y8z, body.darkUI ._10w4, body.darkUI ._4ebz, body.darkUI ._209g, body.darkUI ._1ht6, body.darkUI ::-webkit-input-placeholder {
+    color: #A8A8A8 !important;
+    -webkit-transition: color 0.1s ease-in;
+    transition: color 0.1s ease-in;
+}
+
+body.darkUI ._1q5- {
+    border-left-color: rgba(0, 0, 0, .20) !important;
+    -webkit-transition: border-color 0.1s ease-in;
+    transition: border-color 0.1s ease-in;
+}
+
+body.darkUI ._2v6o, body.darkUI ._1htf, body.darkUI ._3tky {
+    color: rgba(255,255,255,0.3) !important;
+    -webkit-transition: color 0.1s ease-in;
+    transition: color 0.1s ease-in;
+}
+
+._fl2 {
+    right: 60px !important;
+}
+
+.toggleUI {
+    position: absolute;
+    right: 20px;
+    top: 16px;
+    color: rgb(0, 119, 229);
+    font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.toggleUI:hover {
+    cursor: pointer;
+}
