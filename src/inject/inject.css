@@ -1,20 +1,20 @@
 /* Main UI */
 body.darkUI ._4sp8, body.darkUI ._4_j5, body.darkUI ._1ht1, body.darkUI ._5l37, body.darkUI ._4eby, body.darkUI ._2y8_, body.darkUI ._5t4c, body.darkUI ._nd_ ._3058._15gf {
-    background: #2C2C2C !important;
-    -webkit-transition: background 0.1s ease-in;
-    transition: background 0.1s ease-in;
+    background-color: #2C2C2C !important;
+    -webkit-transition: background-color 0.1s ease-in;
+    transition: background-color 0.1s ease-in;
 }
 
 body.darkUI ._1ht1._1ht2, body.darkUI ._5742, body.darkUI ._36ic {
-    background: #252525 !important;
-    -webkit-transition: background 0.1s ease-in;
-    transition: background 0.1s ease-in;
+    background-color: #252525 !important;
+    -webkit-transition: background-color 0.1s ease-in;
+    transition: background-color 0.1s ease-in;
 }
 
-body.darkUI ._hh7:active, body.darkUI ._hh7, body.darkUI ._haj {
-    background: #A8A8A8;
-    -webkit-transition: background 0.1s ease-in;
-    transition: background 0.1s ease-in;
+body.darkUI ._hh7:active, body.darkUI ._hh7, body.darkUI ._haj, body.darkUI ._5i_d {
+    background-color: #A8A8A8;
+    -webkit-transition: background-color 0.1s ease-in;
+    transition: background-color 0.1s ease-in;
 }
 
 body.darkUI ._haj {
@@ -24,19 +24,19 @@ body.darkUI ._haj {
 }
 
 body.darkUI ._nd_ ._hh7:active, body.darkUI ._nd_._-5k ._hh7, body.darkUI ._nd_ ._3058 {
-    background: #0077e5 !important;
+    background-color: #0077e5 !important;
 }
 
 body.darkUI ._hh7:active {
-    background: #696969 !important;
-    -webkit-transition: background 0.1s ease-in;
-    transition: background 0.1s ease-in;
+    background-color: #696969 !important;
+    -webkit-transition: background-color 0.1s ease-in;
+    transition: background-color 0.1s ease-in;
 }
 
 body.darkUI ._5iwm ._58al, body.darkUI ._55sg ._kv1 input {
-    background: #313131 !important;
-    -webkit-transition: background 0.1s ease-in;
-    transition: background 0.1s ease-in;
+    background-color: #313131 !important;
+    -webkit-transition: background-color 0.1s ease-in;
+    transition: background-color 0.1s ease-in;
 }
 
 body.darkUI ._ih3, body.darkUI ._364g, body.darkUI ._3tl0, body.darkUI ._497p, body.darkUI ._1tqi, body.darkUI ._5743, body.darkUI ._1ht7, ._3tkx, body.darkUI ._3tkz, body.darkUI ._kck, body.darkUI ._kcm, body.darkUI ._kck ._58al, body.darkUI ._3x6u, body.darkUI ._4jgs, body.darkUI ._5rh4, body.darkUI ._14-7 ._58ah ._58al, body.darkUI ._2y8z, body.darkUI ._10w4, body.darkUI ._4ebz, body.darkUI ._209g, body.darkUI ._1ht6, body.darkUI ::-webkit-input-placeholder, body.darkUI ._4rpj {
@@ -89,24 +89,6 @@ body.darkUI ._2v6o, body.darkUI ._1htf, body.darkUI ._3tky {
     background-color: rgb(0, 119, 229);
     color: #252525;
 }
-/*
-.darkUI .toggleUI::before, .toggleUI::before {
-    font-size: 28px;
-    color: color: rgb(0, 119, 229);
-    margin-right: 4px;
-    line-height: 0;
-    position: relative;
-    top: 2px;
-}
-
-.darkUI .toggleUI::before {
-    content: "⊗";
-}
-
-.toggleUI::before {
-    content: "⊕";
-}
-*/
 
 .toggleUI:hover {
     cursor: pointer;
