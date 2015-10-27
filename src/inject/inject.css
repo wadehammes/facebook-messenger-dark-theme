@@ -17,7 +17,7 @@ body.darkUI ._hh7:active, body.darkUI ._hh7, body.darkUI ._haj, body.darkUI ._5i
     transition: background-color 0.1s ease-in;
 }
 
-body.darkUI ._haj {
+body.darkUI ._haj, body.darkUI ._54aq {
     color: #2C2C2C !important;
     -webkit-transition: color 0.1s ease-in;
     transition: color 0.1s ease-in;
@@ -45,7 +45,7 @@ body.darkUI ._ih3, body.darkUI ._364g, body.darkUI ._3tl0, body.darkUI ._497p, b
     transition: color 0.1s ease-in;
 }
 
-body.darkUI ._hh7 ._3oh- {
+body.darkUI ._hh7 ._3oh-, body.darkUI ._5rw4 {
     color: #050505 !important;
     -webkit-transition: color 0.1s ease-in;
     transition: color 0.1s ease-in;
