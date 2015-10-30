@@ -69,6 +69,10 @@ body.darkUI ._2v6o, body.darkUI ._1htf, body.darkUI ._3tky {
     transition: color 0.1s ease-in;
 }
 
+body.darkUI ._1ht3 ._1htf, body.darkUI ._1ht3 ._1ht6, body.darkUI ._1ht3 ._1ht7 {
+    color: rgba(255,255,255,0.7) !important;
+}
+
 body.darkUI ._5742 {
     position: relative;
 }
