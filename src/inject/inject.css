@@ -79,6 +79,15 @@ body.darkUI ._5742 {
     position: relative;
 }
 
+body.darkUI ._3058._52mr {
+  max-width: 60%;
+}
+
+/* Fixes weird flash in messages bar */
+body.darkUI .uiScrollableAreaTrack {
+  opacity: 1 !important;
+}
+
 ._fl2 {
     right: 47px !important;
 }
