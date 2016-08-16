@@ -2,7 +2,9 @@
 
 **This extension creates a dark theme for the new Facebook Messenger web app (messenger.com)**
 
-Download it here: https://chrome.google.com/webstore/detail/fcfbiichpmfmifkogaeklndkodplgmkb/
+Due to a cease and desist, and eventual forced removed from the Chrome Web Store, this extension now has to be manually downloaded and installed. I will continue development on it.
+
+To use, visit https://github.com/wadehammes/facebook-messenger-dark-theme/releases/, download latest release and install it via `chrome://extensions` in your browser.
 
 ## Submitting PRs
 
