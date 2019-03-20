@@ -1,3 +1,5 @@
+**No longer developed due to a cease and desist from Facebook, womp**
+
 # Facebook Messenger Dark Theme
 
 **This extension creates a dark theme for the new Facebook Messenger web app (messenger.com)**
