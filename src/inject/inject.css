@@ -110,7 +110,7 @@ body.darkUI a:focus {
     border: 1px solid rgb(0, 119, 229);
     display: table;
     text-align: center;
-    z-index: 1000;
+    z-index: 400;
 }
 
 .toggleUI .toggleText {
